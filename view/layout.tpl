@@ -12,6 +12,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
     <link href="css/base.css" rel="stylesheet">
+    <link href="css/mobile.css" rel="stylesheet">
     {block "css"}{/block}
 
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>

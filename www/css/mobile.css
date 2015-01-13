@@ -1,0 +1,42 @@
+@media screen and (max-width:600px) {
+    #content {
+        margin: 20px;
+    }
+
+    .avatar {
+    }
+
+        .avatar img {
+            border-radius: 10px;
+            height: 100px;
+            width: 100px;
+        }
+
+    .name {
+        margin-left: 110px;
+    }
+
+    .contacts {
+        margin-left: 0;
+        margin-top: 30px;
+        clear: both;
+    }
+
+    .zend {
+        margin-left: 0;
+    }
+
+    .career .left {
+        float: none;
+        text-align: left;
+        width: auto;
+    }
+
+    .career .right {
+        margin-left: 0;
+    }
+
+    .career .clearfix {
+        margin-bottom: 10px;
+    }
+}

@@ -19,6 +19,7 @@
                 <a href="http://leonov-me.moikrug.ru/" target="_blank">Мой&nbsp;Круг</a>
                 <a href="https://www.facebook.com/leonov.me" target="_blank">Фейсбук</a>
                 <a href="https://www.linkedin.com/profile/view?id=175080630" target="_blank">Линкедин</a>
+                <a href="skype:leonov.aav">Скайп</a>
             </span>
         </div>
 
