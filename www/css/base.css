@@ -1,0 +1,76 @@
+html, body, * {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#content {
+    margin: 50px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    border-bottom: 1px solid #999999;
+}
+    a.no-underline {
+        border-bottom: 0;
+    }
+    a:hover {
+        color: #ff0000;
+        text-decoration: none;
+        border-bottom: 1px solid #f0b2b2;
+    }
+
+.avatar {
+    float: left;
+}
+    .avatar img {
+        border-radius: 30px;
+        height: 220px;
+        width: 220px;
+    }
+
+.name {
+    margin-left: 240px;
+}
+    .name h1 {
+        margin: 0;
+    }
+
+
+.contacts {
+    margin-left: 240px;
+    margin-top: 15px;
+}
+    .contacts a {
+        margin-right: 20px;
+    }
+
+    .contacts .social {
+        font-size: 0.8em;
+    }
+
+    .contacts .social a {
+        margin-right: 16px;
+    }
+
+.zend {
+    margin-left: 240px;
+    margin-top: 25px;
+}
+
+.career {
+    margin-top: 20px;
+    font-size: 1.1em;
+}
+    .career .left {
+        float: left;
+        font-weight: bold;
+        text-align: right;
+        width: 220px;
+    }
+    .career .right {
+        margin-left: 240px;
+    }
+    .career .clearfix {
+        margin-bottom: 20px;
+    }
