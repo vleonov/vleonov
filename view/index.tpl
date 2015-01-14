@@ -4,7 +4,7 @@
 
     <div id="content">
         <div class="avatar">
-            <img src="/img/avatar.jpg" alt="vleonov"/>
+            <img src="/img/avatar.jpg" alt="Виталий Леонов" title="vleonov"/>
         </div>
 
         <div class="name">
