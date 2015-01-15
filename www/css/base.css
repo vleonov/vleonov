@@ -57,6 +57,12 @@ a {
     margin-left: 240px;
     margin-top: 25px;
 }
+    .zend h2 {
+        font-size: 1em;
+        font-weight: normal;
+        line-height: 20px;
+        margin: 0;
+    }
 
 .career {
     margin-top: 20px;

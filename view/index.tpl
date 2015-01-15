@@ -36,10 +36,12 @@
         </div>
 
         <div class="zend">
-            <a href="http://www.zend.com/en/yellow-pages/ZEND010936" target="_blank">
-                {if $english}Zend certified{else}Zend-сертифицированный{/if}
-            </a>
-            {if $english}PHP&nbsp;developer{else}PHP&nbsp;разработчик{/if}
+            <h2>
+                <a href="http://www.zend.com/en/yellow-pages/ZEND010936" target="_blank">
+                    {if $english}Zend certified{else}Zend-сертифицированный{/if}
+                </a>
+                {if $english}PHP&nbsp;developer{else}PHP&nbsp;разработчик{/if}
+            </h2>
         </div>
 
         <div class="clearfix"></div>
