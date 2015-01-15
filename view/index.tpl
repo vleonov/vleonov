@@ -4,11 +4,11 @@
 
     <div id="lang">
         {if $english}
-            <a href="?ru">Русский</a>
+            <a href="/ru">Русский</a>
             <span>English</span>
         {else}
             <span>Русский</span>
-            <a href="?eng">English</a>
+            <a href="/eng">English</a>
         {/if}
     </div>
 

@@ -2,7 +2,7 @@
 
 return array(
 
-    '/' => array(
+    '/((?<lang>(ru|eng))/)?' => array(
         'Main',
     ),
 );

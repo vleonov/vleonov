@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{if $english}Vitaly Leonov &mdash; Zend Certified PHP Developer{else}Виталий Леонов &mdash; Zend-сертифицированный PHP-разработчик{/if}">
+    <meta name="keywords" content="{if $english}Vitaly Leonov, PHP-developer, Zend Certified Engineer, ITIL Foundation, web-development, Highload{else}Виталий Леонов, PHP разработчик, Zend Certified Engineer, ITIL Foundation, web-разработка, Highload{/if}"/>
     <meta name="author" content="vleonov">
 
     <base href="{$BaseHref}">

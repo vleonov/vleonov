@@ -7,11 +7,8 @@ class C_Main extends Controller
         $request = Request();
         $response = Response();
 
-        if ($request->get('eng') !== null) {
-            $lang = 'eng';
-            $response->setCookie('lang', $lang);
-        } elseif ($request->get('ru') !== null) {
-            $lang = 'ru';
+        if ($request->args('lang') !== null) {
+            $lang = $request->args('lang');
             $response->setCookie('lang', $lang);
         } else {
             $lang = $request->cookie('lang', 'ru');
