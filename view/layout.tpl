@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{if $english}en{else}ru{/if}">
   <head>
+    <title>{if $english}Vitaly Leonov{else}Виталий Леонов{/if}</title>
     <meta charset="utf-8">
-    <title>vleonov</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="{if $english}Vitaly Leonov &mdash; Zend Certified PHP Developer{else}Виталий Леонов &mdash; Zend-сертифицированный PHP-разработчик{/if}">
+    <meta name="author" content="vleonov">
 
     <base href="{$BaseHref}">
 

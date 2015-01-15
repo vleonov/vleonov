@@ -74,3 +74,11 @@ a {
     .career .clearfix {
         margin-bottom: 20px;
     }
+
+#lang {
+    font-size: 0.7em;
+    padding: 5px 50px 0 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}

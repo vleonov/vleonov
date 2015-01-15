@@ -39,4 +39,8 @@
     .career .clearfix {
         margin-bottom: 10px;
     }
+
+    #lang {
+        padding: 0 5px 0 0;
+    }
 }
