@@ -8,7 +8,7 @@
             <span>English</span>
         {else}
             <span>Русский</span>
-            <a href="/eng">English</a>
+            <a href="/en">English</a>
         {/if}
     </div>
 

@@ -14,6 +14,6 @@ class C_Main extends Controller
             $lang = $request->cookie('lang', 'ru');
         }
 
-        return $response->assign('english', $lang == 'eng')->fetch('index.tpl');
+        return $response->assign('english', $lang == 'en')->fetch('index.tpl');
     }
 }
