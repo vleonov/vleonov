@@ -54,10 +54,10 @@
             <div class="right">
                 <p>
                     {if $english}
-                        senior developer at KEH eCommerce, Moscow, Russia;
+                        team lead at KEH eCommerce, Moscow, Russia;
                         development of the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
                     {else}
-                        ведущим разработчиком в компании ООО &laquo;КЕХ еКоммерц&raquo;, разрабатываю сайт <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
+                        руководителем группы в компании ООО &laquo;КЕХ еКоммерц&raquo;, разрабатываю сайт <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
                         один из самых посещаемых сайтов Рунета.
                     {/if}
                 </p>
