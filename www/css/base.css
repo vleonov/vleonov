@@ -69,12 +69,14 @@ a {
     font-size: 1.1em;
 }
     .career .left {
+        display: block;
         float: left;
         font-weight: bold;
         text-align: right;
         width: 220px;
     }
     .career .right {
+        display: block;
         margin-left: 240px;
     }
     .career .clearfix {

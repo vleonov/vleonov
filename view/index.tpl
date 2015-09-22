@@ -48,11 +48,11 @@
 
         <div class="career">
 
-            <div class="left">
-                {if $english}Occupation{else}Работаю{/if}
-            </div>
-            <div class="right">
-                <p>
+            <p>
+                <span class="left">
+                    {if $english}Occupation{else}Работаю{/if}
+                </span>
+                <span class="right">
                     {if $english}
                         team lead at KEH eCommerce, Moscow, Russia;
                         development of the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
@@ -60,16 +60,16 @@
                         руководителем группы в компании ООО &laquo;КЕХ еКоммерц&raquo;, разрабатываю сайт <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
                         один из самых посещаемых сайтов Рунета.
                     {/if}
-                </p>
-            </div>
+                </span>
+            </p>
 
             <div class="clearfix"></div>
 
-            <div class="left">
-                {if $english}Past occupations{else}Работал{/if}
-            </div>
-            <div class="right">
-                <p>
+            <p>
+                <span class="left">
+                    {if $english}Past occupations{else}Работал{/if}
+                </span>
+                <span class="right">
                     {if $english}
                         tech lead at NGS, Novosibirsk, Russia;
                         development group of the biggest municipal sites in Russia <a href="http://ngs.ru" target="_blank">ngs.ru</a>.
@@ -77,38 +77,36 @@
                         тех.лидом в компании ЗАО &laquo;НГС&raquo;, разрабатывал и управлял разработкой группы сайтов <a href="http://ngs.ru" target="_blank">ngs.ru</a>&nbsp;&mdash;
                         ведущих городских порталов в России.
                     {/if}
-                </p>
-                <p>
+                    <br><br>
                     {if $english}
                         developer at Novotelecom, Novosibirsk, Russia; development of township site <a href="http://cn.ru/" target="_blank">cn.ru</a>.
                     {else}
                         разработчиком в компании ООО &laquo;Новотелеком&raquo;, разрабатывал сайт <a href="http://cn.ru/" target="_blank">cn.ru</a>.
                     {/if}
-                </p>
-                <p>
+                    <br><br>
                     {if $english}
                         developer at ICS, Novosibirsk, Russia; development and support of automation system for travel companies.
                     {else}
                         разработчиком в компании ООО &laquo;ICS&raquo;, разрабатывал CMS и приложение для туристических агентств.
                     {/if}
-                </p>
-            </div>
+                </span>
+            </p>
 
             <div class="clearfix"></div>
 
-            <div class="left">
-                {if $english}Education{else}Учился{/if}
-            </div>
-            <div class="right">
-                <p>
+            <p>
+                <span class="left">
+                    {if $english}Education{else}Учился{/if}
+                </span>
+                <span class="right">
                     {if $english}
                         Novosibirsk’s State Technical University, bachelor of computer science and mathematic.
                     {else}
                         в Новосибирском Государственном Техническом Университете
                         на факультете прикладной математики и информатики.
                     {/if}
-                </p>
-            </div>
+                </span>
+            </p>
 
             <div class="clearfix"></div>
 
