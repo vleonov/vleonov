@@ -54,11 +54,12 @@
                 </span>
                 <span class="right">
                     {if $english}
-                        team lead at KEH eCommerce, Moscow, Russia;
-                        development of the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
+                        server-side functional lead at KEH eCommerce, Moscow, Russia;
+                        manage the development of the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
                     {else}
-                        руководителем группы в компании ООО &laquo;КЕХ еКоммерц&raquo;, разрабатываю сайт <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
-                        один из самых посещаемых сайтов Рунета.
+                        руководитель функции для управления разработкой серверной части в компании ООО &laquo;КЕХ еКоммерц&raquo;,
+                        руковожу сервер-сайд разработкой сайта <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
+                        одного из самых посещаемых сайтов Рунета.
                     {/if}
                 </span>
             </p>
@@ -70,6 +71,18 @@
                     {if $english}Past occupations{else}Работал{/if}
                 </span>
                 <span class="right">
+                    {if $english}
+                        team lead at KEH eCommerce, Moscow, Russia.
+                    {else}
+                        руководителем группы в компании ООО &laquo;КЕХ еКоммерц&raquo;.
+                    {/if}
+                    <br><br>
+                    {if $english}
+                        senior developer at KEH eCommerce, Moscow, Russia.
+                    {else}
+                        ведущим разработчиком в компании ООО &laquo;КЕХ еКоммерц&raquo;.
+                    {/if}
+                    <br><br>
                     {if $english}
                         tech lead at NGS, Novosibirsk, Russia;
                         development group of the biggest municipal sites in Russia <a href="http://ngs.ru" target="_blank">ngs.ru</a>.
