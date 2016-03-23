@@ -30,7 +30,7 @@
                     <a href="http://leonov-me.moikrug.ru/" target="_blank">Мой&nbsp;Круг</a>
                 {/if}
                 <a href="https://www.facebook.com/leonov.me" target="_blank">{if $english}Facebook{else}Фейсбук{/if}</a>
-                <a href="https://www.linkedin.com/profile/view?id=175080630" target="_blank">{if $english}Linkedin{else}Линкедин{/if}</a>
+                <a href="https://www.linkedin.com/profile/view?id=AAIAAApvhLYBPx9VjEXl54SmwZnUt3t04QTYn1A" target="_blank">{if $english}Linkedin{else}Линкедин{/if}</a>
                 <a href="skype:leonov.aav">{if $english}Skype{else}Скайп{/if}</a>
             </span>
         </div>
