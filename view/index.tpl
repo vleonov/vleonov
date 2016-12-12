@@ -54,10 +54,10 @@
                 </span>
                 <span class="right">
                     {if $english}
-                        server-side functional lead at KEH eCommerce, Moscow, Russia;
+                        head of backend engineering at KEH eCommerce, Moscow, Russia;
                         manage the development of the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
                     {else}
-                        руководитель функции для управления разработкой серверной части в компании ООО &laquo;КЕХ еКоммерц&raquo;,
+                        руководителем разработки серверной части в компании ООО &laquo;КЕХ еКоммерц&raquo;,
                         руковожу сервер-сайд разработкой сайта <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
                         одного из самых посещаемых сайтов Рунета.
                     {/if}
