@@ -72,6 +72,12 @@
                 </span>
                 <span class="right">
                     {if $english}
+                        function lead at KEH eCommerce, Moscow, Russia.
+                    {else}
+                        руководителем функции в компании ООО &laquo;КЕХ еКоммерц&raquo;.
+                    {/if}
+                    <br><br>
+                    {if $english}
                         team lead at KEH eCommerce, Moscow, Russia.
                     {else}
                         руководителем группы в компании ООО &laquo;КЕХ еКоммерц&raquo;.
@@ -81,6 +87,12 @@
                         senior developer at KEH eCommerce, Moscow, Russia.
                     {else}
                         ведущим разработчиком в компании ООО &laquo;КЕХ еКоммерц&raquo;.
+                    {/if}
+                    <br><br>
+                    {if $english}
+                        server-side developer at KEH eCommerce, Moscow, Russia.
+                    {else}
+                        разработчиком серверной части в компании ООО &laquo;КЕХ еКоммерц&raquo;.
                     {/if}
                     <br><br>
                     {if $english}
