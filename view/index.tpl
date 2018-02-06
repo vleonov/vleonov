@@ -37,10 +37,11 @@
 
         <div class="zend">
             <h2>
-                <a href="http://www.zend.com/en/yellow-pages/ZEND010936" target="_blank">
-                    {if $english}Zend certified{else}Zend-сертифицированный{/if}
-                </a>
-                {if $english}PHP&nbsp;developer{else}PHP&nbsp;разработчик{/if}
+                {if $english}
+                    Technical Manager
+                {else}
+                    Руководитель разработки
+                {/if}
             </h2>
         </div>
 
@@ -54,11 +55,11 @@
                 </span>
                 <span class="right">
                     {if $english}
-                        head of backend engineering at KEH eCommerce, Moscow, Russia;
-                        manage the development of the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
+                        head of B2C engineering at KEH eCommerce, Moscow, Russia;
+                        manage the development of the B2C products at the biggest Russian classified <a href="https://avito.ru" target="_blank">avito.ru</a>.
                     {else}
-                        руководителем разработки серверной части в компании ООО &laquo;КЕХ еКоммерц&raquo;,
-                        руковожу сервер-сайд разработкой сайта <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
+                        директором по разработке B2C в компании ООО &laquo;КЕХ еКоммерц&raquo;,
+                        руковожу разработкой B2C продуктов сайта <a href="https://avito.ru" target="_blank">avito.ru</a>&nbsp;&mdash;
                         одного из самых посещаемых сайтов Рунета.
                     {/if}
                 </span>
@@ -71,6 +72,11 @@
                     {if $english}Past occupations{else}Работал{/if}
                 </span>
                 <span class="right">
+                    {if $english}
+                        head of backend engineering at KEH eCommerce, Moscow, Russia;
+                    {else}
+                        руководителем разработки серверной части в компании ООО &laquo;КЕХ еКоммерц&raquo;.
+                    {/if}
                     {if $english}
                         function lead at KEH eCommerce, Moscow, Russia.
                     {else}
